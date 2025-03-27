@@ -7,3 +7,4 @@
 ![SequenceList01.png](../../images/linear/SequenceList01.png)
 
 代码实现：[SequenceList.java](../../src/main/java/linear/SequenceList.java)
+测试类：[SequenceListTest.java](../../src/test/java/linear/SequenceListTest.java)
