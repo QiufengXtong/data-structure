@@ -18,8 +18,8 @@
 线性表中的数据存储方式可以是顺序存储也可以是链式存储，按照不同的存储方式可以分为顺序表和链表。
 
 ### 
-- 顺序表介绍：[SequenceList.md](https://github.com/QiufengXtong/data-structure/blob/master/docs/linear/SequenceList.md)
-- 链表介绍：[LinkedList.md](https://github.com/QiufengXtong/data-structure/blob/master/docs/linear/UnidirectionLinkedList.md)
+- 顺序表介绍：[SequenceList.md](docs/linear/SequenceList.md)
+- 链表介绍：[LinkedList.md](docs/linear/LinkedList.md)
 ## 符合表
     ...
 ## 树
