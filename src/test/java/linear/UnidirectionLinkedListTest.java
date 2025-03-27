@@ -1,7 +1,5 @@
 package linear;
 
-import linear.UnidirectionLinkedList;
-
 /**
  * @author 张晓童
  * @description 单向链表测试类
